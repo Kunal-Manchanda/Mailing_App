@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665332683680",
+    "firebase_url": "https://mailing-app-eb048.firebaseio.com",
+    "project_id": "mailing-app-eb048",
+    "storage_bucket": "mailing-app-eb048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665332683680:android:56e6a4004b1343383bcac5",
+        "android_client_info": {
+          "package_name": "com.example.mailing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665332683680-l8khc119n26n0u3vqmnttc6a2d2isglo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhyN3Gg4eizjsHzmvHH-GSQury5qxUXDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665332683680-l8khc119n26n0u3vqmnttc6a2d2isglo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
